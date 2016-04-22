@@ -1,2 +1,2 @@
 # hello-rj
-IT contains C++ changes
+Starting learning basic c++ concepts
